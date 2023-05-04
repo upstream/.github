@@ -21,9 +21,9 @@ If no QA is needed, add "No QA" label before requesting a review.
 <details>
   <summary>No QA criteria</summary>
   <ul>
-    <li>API endpoints</li>
-    <li>refactorings (decided if QA should check that nothing broke)</li>
-    <li>changes to documentation, GitHub actions, scripts</li>
+    <li>simple API endpoints (decide for youself. can anything break?)</li>
+    <li>refactorings (decide if QA should check that nothing broke)</li>
+    <li>changes to documentation</li>
   </ul>
 </details>
 
