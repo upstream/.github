@@ -5,19 +5,32 @@
 
 fixes/see #{{issue-no}} (use _see_ if issue requires QA and should not be closed automatically)
 
-# Review:
+# Review
 
 * [ ] code is understandable
 * [ ] code is covered by specs
 * [ ] no performance issues found
 * [ ] no security issues found
 
-# QA (after review is done)
+# QA
+
+After review is done.
+
+If no QA is needed, add "No QA" label before requesting a review.
+
+<details>
+  <summary>No QA criteria</summary>
+  <ul>
+    <li>simple API endpoints (decide for youself. can anything break?)</li>
+    <li>refactorings (decide if QA should check that nothing broke)</li>
+    <li>changes to documentation</li>
+  </ul>
+</details>
 
 ## How to QA this
 
-* setup (data, feature switches): <to be filled out by PR creator>
-* edge cases: <to be filled out by PR creator>
+* setup (data, feature switches): &lt;to be filled out by PR creator&gt;
+* edge cases: &lt;to be filled out by PR creator&gt;
 
 ## QA Protocol
 
