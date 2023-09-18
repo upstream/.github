@@ -1,9 +1,9 @@
 * what this PR does:
 * why this is needed:
 * context for anyone reading this in 6 months or years:
-* [ ] added screenshots/videos for [sprint dev demo](https://www.notion.so/cobotme/How-to-preprare-the-sprint-demo-2134a45ae0e34c4ab85c6ba04a586ec0) if applicable
+* [ ] added screenshots/videos for if applicable
 
-fixes/see #{{issue-no}} (use _see_ if issue requires QA and should not be closed automatically)
+fix #{{issue-no}}
 
 # Review
 
