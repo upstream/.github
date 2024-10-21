@@ -41,6 +41,7 @@ If no QA is needed, add "No QA" label before requesting a review.
 
 * setup (data, feature switches): &lt;to be filled out by PR creator&gt;
 * edge cases: &lt;to be filled out by PR creator&gt;
+* 🔑 scan each page for a11y issues in [axe dev tools](https://www.deque.com/axe/devtools/)
 
 
 
