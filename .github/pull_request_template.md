@@ -1,48 +1,15 @@
-* what this PR does:
-* why this is needed:
-* context for anyone reading this in 6 months or years:
-* [ ] added screenshots/videos for if applicable
+## What this PR does
+
+* Description; why this is needed; context for anyone reading this in 6 months or years
 
 fix #{{issue-no}}
 
-## Review Protocol
-
-* [ ] 🤯 code is understandable
-* [ ] 🧪 code is covered by specs
-* [ ] 🚀 no performance issues found
-* [ ] 👮 no security issues found
-
-## QA Protocol
-
-* [ ] 🐭 manually clicked through the feature or manually called the API
-* [ ] 🖼️ everything looks ok visually (mobile and desktop screen sizes)
-* [ ] 🔑 no A11y issues found 
-* [ ] flows tested:
-  * 1
-  * 2
-  * 3
-
-## QA
-
-After review is done.
-
-If no QA is needed, add "No QA" label before requesting a review.
-
-<details>
-  <summary>No QA criteria</summary>
-  <ul>
-    <li>simple API endpoints (decide for youself. can anything break?)</li>
-    <li>refactorings (decide if QA should check that nothing broke)</li>
-    <li>changes to documentation</li>
-  </ul>
-</details>
+## Screenshots
 
 ## How to QA this
 
-* setup (data, feature switches): &lt;to be filled out by PR creator&gt;
-* edge cases: &lt;to be filled out by PR creator&gt;
-* 🔑 scan each page for a11y issues in [axe dev tools](https://www.deque.com/axe/devtools/)
+* setup (data, feature switches):
+* edge cases:
+* scan each page for a11y issues in [axe dev tools](https://www.deque.com/axe/devtools/)
 
-
-
-
+If no QA is needed, add the `No QA` label before requesting a review.
